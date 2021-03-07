@@ -1,4 +1,4 @@
-from goumet_game import GourmetGame
+from gourmet_game import GourmetGame
 from gui_service import GuiServiceImpl
 
 if __name__ == '__main__':
